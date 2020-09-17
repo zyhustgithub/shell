@@ -1,0 +1,5 @@
+﻿#source_path = \\10.5.201.52\信托数据
+#des_path = D:\FDEP文件汇总\开放式基金FDEP\发送
+source_path = C:\Users\zengyong\Desktop\QT\send\信托数据
+des_path = C:\Users\zengyong\Desktop\QT\send\发送
+haozip = C:\myprogram\Haozip\HaoZipC.exe
